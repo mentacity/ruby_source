@@ -1,7 +1,7 @@
 # create an array of rooms
 # arrays use square brackets
 # arrays use a numberic index to distinguish between members
-
+# for purposes of demoing git
 =begin
 rooms = ["foyer","bathroom","bedroom","garage"]
 
